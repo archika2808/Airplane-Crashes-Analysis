@@ -30,15 +30,8 @@ Jupyter Notebook → step-by-step interactive analysis.
  Visual insights with saved plots
 
 ## 📷 Visualizations
+![Crash Trend](https://raw.githubusercontent.com/archika2808/AirIndiaCrashAnalysis/main/plots/crash_trend.png)
 
-Crash Trend:  
-![Crash Trend](plots/crash_trend.png)
-
-Fatalities vs Survivors:  
-![Fatalities vs Survivors](plots/fatalities_vs_survivors.png)
-
-Crash Causes:  
-![Crash Causes](plots/crash_causes.png)
 
 Project Structure
 AirIndiaCrashAnalysis/
@@ -85,3 +78,4 @@ Compare Air India crashes with global airline crash data.
 License
 
 This project is open-source and available under the MIT License.
+
