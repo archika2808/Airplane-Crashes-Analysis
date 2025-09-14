@@ -1,21 +1,12 @@
 ✈️ Air India Crash Data Analysis
 
-📌 Project Overview
+📌 Project Overview:-
 
 This project analyzes historical data related to Air India plane crashes and incidents.
 The goal is to explore patterns, causes, and impacts of crashes through data cleaning, analysis, and visualization.
 
- Dataset Source:-
 
-The dataset used in this project was taken from Kaggle:
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("themuneeb99/airplane-crash-and-fatalities-1948present")
-
-print("Path to dataset files:", path)
-
- Libraries Used
+ Libraries Used:-
 
 Pandas → load & clean dataset (handle missing values, format dates).
 
@@ -27,14 +18,14 @@ Seaborn → heatmaps, pie charts, and styled visualizations.
 
 Jupyter Notebook → step-by-step interactive analysis.
 
- Features
+ Features:-
 
  Crash counts by year & decade
  Fatalities vs Survivors study
  Causes of crashes (technical failure, human error, weather)
  Visual insights with saved plots
 
-## 📷 Visualizations
+## 📷 Visualizations:-
 
 Airplane Crashes Per Decade:  
 ![Airplane crashes per decade](Airplane_crashes_per_decade.png)
@@ -56,7 +47,7 @@ Top 10 Operators with Most Crashes:
 
 
 
-Project Structure
+Project Structure:-
 AirIndiaCrashAnalysis/
 │-- data/               # Dataset (Kaggle CSV file)  
 │-- notebooks/          # Jupyter Notebooks  
@@ -66,20 +57,22 @@ AirIndiaCrashAnalysis/
 
 How to Run
 
-Clone this repository
+Clone this repository:-
 
 git clone https://github.com/yourusername/AirIndiaCrashAnalysis.git
 cd AirIndiaCrashAnalysis
 
 
-Install dependencies
+Install dependencies:-
 
 pip install -r requirements.txt
 
 
-Run Jupyter Notebook for analysis
+Run Jupyter Notebook for analysis:-
 
 jupyter notebook
+
+Results Table:-
 
 | Decade | No. of Crashes | Avg. Fatalities | Major Cause       | Trend           |
 | ------ | -------------- | --------------- | ----------------- | --------------- |
@@ -90,7 +83,7 @@ jupyter notebook
 | 2000s  | Low            | 80–100          | Technical Issues  | Safer           |
 | 2010s+ | Very Low       | Few casualties  | Rare Incidents    | Safe Era        |
 
-📌 Future Work
+📌 Future Work:-
 
 Apply Machine Learning to predict crash likelihood based on weather/aircraft data.
 
@@ -98,9 +91,10 @@ Build an interactive dashboard with Streamlit or Dash.
 
 Compare Air India crashes with global airline crash data.
 
-License
+License:-
 
 This project is open-source and available under the MIT License.
+
 
 
 
