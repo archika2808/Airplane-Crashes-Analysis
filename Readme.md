@@ -48,30 +48,6 @@ Airplane-Crashes-Analysis/
 - Survival rates vary widely depending on the crash circumstances.
 - Geographic analysis shows crashes are distributed globally, with higher frequency in certain regions.
 
----
-
-## Visualizations
-
-**Crashes per Decade**  
-![Crashes per Decade](./crashes_per_decade.png)
-
-**Fatalities vs Survivors by Decade**  
-![Fatalities vs Survivors](./![Fatalities vs Survivors per Decade](Fatalities%20vs%20Survivors%20per%20decade.png))
-
-**Top Airlines with Most Crashes**  
-![Top Operators](./top_operators.png)
-
-**Top Aircraft Types in Crashes**  
-![Top Aircraft Types](./top_aircraft_types.png)
-
-**Survival Rate Distribution**  
-![Survival Rate Distribution](./survival_rate_distribution.png)
-
-**Interactive Global Distribution Map**  
-*Displayed in the notebook using Plotly*
-
----
-
 ## Libraries Required
 
 - pandas  
@@ -83,6 +59,7 @@ Install them using:
 
 ```bash
 pip install pandas matplotlib seaborn plotly
+
 
 
 
