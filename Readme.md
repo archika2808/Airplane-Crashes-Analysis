@@ -35,19 +35,20 @@ Airplane Crashes Per Decade:
 ![Airplane crashes per decade](Airplane_crashes_per_decade.png)
 
 Distribution of Survival Rates:  
-![Distribution of survival rates](Distribution of survival rates.png)
+![Distribution of survival rates](Distribution_of_survival_rates.png)
 
 Fatalities vs Survivors Per Decade:  
-![Fatalities vs Survivors per decade](Fatalities vs Survivors per decade.png)
+![Fatalities vs Survivors per decade](Fatalities_vs_Survivors_per_decade.png)
 
 Global Distribution of Crashes:  
-![Global distribution of crashes](Global distribution of crashes.png)
+![Global distribution of crashes](Global_distribution_of_crashes.png)
 
 Top 10 Aircraft Types Involved in Crashes:  
-![Top 10 aircraft types involved in crashes](Top 10 aircraft types involved in crashes.png)
+![Top 10 aircraft types involved in crashes](Top_10_aircraft_types_involved_in_crashes.png)
 
 Top 10 Operators with Most Crashes:  
-![Top 10 operators with most crashes](Top 10 operators with most crashes.png)
+![Top 10 operators with most crashes](Top_10_operators_with_most_crashes.png)
+
 
 
 Project Structure
@@ -95,6 +96,7 @@ Compare Air India crashes with global airline crash data.
 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
