@@ -8,7 +8,12 @@ The goal is to explore patterns, causes, and impacts of crashes through data cle
  Dataset Source:-
 
 The dataset used in this project was taken from Kaggle:
-aircraft_crash_data.csv
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("themuneeb99/airplane-crash-and-fatalities-1948present")
+
+print("Path to dataset files:", path)
 
  Libraries Used
 
@@ -96,6 +101,7 @@ Compare Air India crashes with global airline crash data.
 License
 
 This project is open-source and available under the MIT License.
+
 
 
 
