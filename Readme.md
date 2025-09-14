@@ -30,7 +30,25 @@ Jupyter Notebook → step-by-step interactive analysis.
  Visual insights with saved plots
 
 ## 📷 Visualizations
-![Crash Trend](https://raw.githubusercontent.com/archika2808/AirIndiaCrashAnalysis/main/plots/crash_trend.png)
+## 📷 Visualizations
+
+Airplane Crashes Per Decade:  
+![Airplane crashes per decade](Airplane crashes per decade.png)
+
+Distribution of Survival Rates:  
+![Distribution of survival rates](Distribution of survival rates.png)
+
+Fatalities vs Survivors Per Decade:  
+![Fatalities vs Survivors per decade](Fatalities vs Survivors per decade.png)
+
+Global Distribution of Crashes:  
+![Global distribution of crashes](Global distribution of crashes.png)
+
+Top 10 Aircraft Types Involved in Crashes:  
+![Top 10 aircraft types involved in crashes](Top 10 aircraft types involved in crashes.png)
+
+Top 10 Operators with Most Crashes:  
+![Top 10 operators with most crashes](Top 10 operators with most crashes.png)
 
 
 Project Structure
@@ -78,4 +96,5 @@ Compare Air India crashes with global airline crash data.
 License
 
 This project is open-source and available under the MIT License.
+
 
