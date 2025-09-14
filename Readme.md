@@ -56,7 +56,7 @@ Airplane-Crashes-Analysis/
 ![Crashes per Decade](./crashes_per_decade.png)
 
 **Fatalities vs Survivors by Decade**  
-![Fatalities vs Survivors](./Fatalities_vs_survivors_per_decade.png)
+![Fatalities vs Survivors](./Fatalities_vs_Survivors_per_decade.png)
 
 **Top Airlines with Most Crashes**  
 ![Top Operators](./top_operators.png)
@@ -83,6 +83,7 @@ Install them using:
 
 ```bash
 pip install pandas matplotlib seaborn plotly
+
 
 
 
