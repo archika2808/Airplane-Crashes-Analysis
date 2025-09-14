@@ -53,19 +53,19 @@ Airplane-Crashes-Analysis/
 ## Visualizations
 
 **Crashes per Decade**  
-![Crashes per Decade](plots/crashes_per_decade.png)
+![Crashes per Decade](./crashes_per_decade.png)
 
 **Fatalities vs Survivors by Decade**  
-![Fatalities vs Survivors](plots/fatalities_vs_survivors.png)
+![Fatalities vs Survivors](./fatalities_vs_survivors.png)
 
 **Top Airlines with Most Crashes**  
-![Top Operators](plots/top_operators.png)
+![Top Operators](./top_operators.png)
 
 **Top Aircraft Types in Crashes**  
-![Top Aircraft Types](plots/top_aircraft_types.png)
+![Top Aircraft Types](./top_aircraft_types.png)
 
 **Survival Rate Distribution**  
-![Survival Rate Distribution](plots/survival_rate_distribution.png)
+![Survival Rate Distribution](./survival_rate_distribution.png)
 
 **Interactive Global Distribution Map**  
 *Displayed in the notebook using Plotly*
@@ -83,5 +83,6 @@ Install them using:
 
 ```bash
 pip install pandas matplotlib seaborn plotly
+
 
 
