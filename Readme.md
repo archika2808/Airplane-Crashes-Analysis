@@ -30,10 +30,9 @@ Jupyter Notebook → step-by-step interactive analysis.
  Visual insights with saved plots
 
 ## 📷 Visualizations
-## 📷 Visualizations
 
 Airplane Crashes Per Decade:  
-![Airplane crashes per decade](Airplane crashes per decade.png)
+![Airplane crashes per decade](Airplane_crashes_per_decade.png)
 
 Distribution of Survival Rates:  
 ![Distribution of survival rates](Distribution of survival rates.png)
@@ -96,5 +95,6 @@ Compare Air India crashes with global airline crash data.
 License
 
 This project is open-source and available under the MIT License.
+
 
 
